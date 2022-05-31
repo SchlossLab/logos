@@ -2,4 +2,4 @@
 
 The lab's hex logos combined in one image. Created with InkScape.
 
-![logos](triple-hex-logos.png)
+<img src="triple-hex-logos.png" alt="logos" width="200"/>
