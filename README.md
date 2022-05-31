@@ -2,4 +2,6 @@
 
 The lab's hex logos combined in one image. Created with InkScape.
 
-<img src="triple-hex-logos.png" alt="logos" width="200"/>
+<img src="triple-hex-logos_vertical.png" alt="logos" width="200"/>
+
+<img src="triple-hex-logos_compact.png" alt="logos" height="200"/>
